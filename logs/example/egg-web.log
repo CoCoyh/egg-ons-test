@@ -399,7 +399,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-02 15:26:53,088 INFO 5577 [egg:core] dump config after load, 5ms
 2019-04-02 15:26:53,107 INFO 5577 [egg-watcher:application] watcher start success
 2019-04-02 15:26:53,114 INFO 5577 [egg:core] dump config after ready, 5ms
-2019-04-02 15:26:53,209 INFO 5577 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-02 15:26:53,209 INFO 5577 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|*****|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-02 15:27:11,335 INFO 5590 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-02 15:27:11,365 INFO 5590 [egg-multipart] stream mode enable
 2019-04-02 15:27:11,480 INFO 5590 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -414,7 +414,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-02 15:27:11,497 INFO 5590 [egg:core] dump config after load, 6ms
 2019-04-02 15:27:11,516 INFO 5590 [egg-watcher:application] watcher start success
 2019-04-02 15:27:11,524 INFO 5590 [egg:core] dump config after ready, 6ms
-2019-04-02 15:27:11,654 INFO 5590 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-02 15:27:11,654 INFO 5590 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|****|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-02 15:27:32,472 INFO 5607 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-02 15:27:32,501 INFO 5607 [egg-multipart] stream mode enable
 2019-04-02 15:27:32,616 INFO 5607 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -429,7 +429,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-02 15:27:32,636 INFO 5607 [egg:core] dump config after load, 9ms
 2019-04-02 15:27:32,659 INFO 5607 [egg-watcher:application] watcher start success
 2019-04-02 15:27:32,666 INFO 5607 [egg:core] dump config after ready, 5ms
-2019-04-02 15:27:32,793 INFO 5607 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-02 15:27:32,793 INFO 5607 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|*****|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-02 15:32:59,403 INFO 5761 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-02 15:32:59,437 INFO 5761 [egg-multipart] stream mode enable
 2019-04-02 15:32:59,550 INFO 5761 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -444,7 +444,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-02 15:32:59,571 INFO 5761 [egg:core] dump config after load, 7ms
 2019-04-02 15:32:59,591 INFO 5761 [egg-watcher:application] watcher start success
 2019-04-02 15:32:59,598 INFO 5761 [egg:core] dump config after ready, 5ms
-2019-04-02 15:32:59,684 INFO 5761 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-02 15:32:59,684 INFO 5761 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|****|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-02 16:22:46,359 INFO 7232 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-02 16:22:46,389 INFO 7232 [egg-multipart] stream mode enable
 2019-04-02 16:22:46,513 INFO 7232 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -655,7 +655,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-03 14:50:51,062 INFO 16720 [egg:core] dump config after load, 6ms
 2019-04-03 14:50:51,079 INFO 16720 [egg-watcher:application] watcher start success
 2019-04-03 14:50:51,086 INFO 16720 [egg:core] dump config after ready, 6ms
-2019-04-03 14:50:51,167 INFO 16720 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-03 14:50:51,167 INFO 16720 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|***|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-03 14:59:51,974 INFO 16909 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-03 14:59:52,004 INFO 16909 [egg-multipart] stream mode enable
 2019-04-03 14:59:52,133 INFO 16909 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -670,7 +670,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-03 14:59:52,149 INFO 16909 [egg:core] dump config after load, 6ms
 2019-04-03 14:59:52,166 INFO 16909 [egg-watcher:application] watcher start success
 2019-04-03 14:59:52,175 INFO 16909 [egg:core] dump config after ready, 7ms
-2019-04-03 14:59:52,331 INFO 16909 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-03 14:59:52,331 INFO 16909 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|*****|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 15:08:19,557 INFO 44333 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 15:08:19,586 INFO 44333 [egg-multipart] stream mode enable
 2019-04-09 15:08:19,726 INFO 44333 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -699,7 +699,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 15:08:39,951 INFO 44346 [egg:core] dump config after load, 7ms
 2019-04-09 15:08:39,969 INFO 44346 [egg-watcher:application] watcher start success
 2019-04-09 15:08:39,978 INFO 44346 [egg:core] dump config after ready, 7ms
-2019-04-09 15:08:40,089 INFO 44346 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 15:08:40,089 INFO 44346 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|*****|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 15:16:00,587 INFO 44447 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 15:16:00,617 INFO 44447 [egg-multipart] stream mode enable
 2019-04-09 15:16:00,737 INFO 44447 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -796,7 +796,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 15:28:49,291 WARN 44596 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 15:28:49,303 INFO 44596 [egg-watcher:application] watcher start success
 2019-04-09 15:28:49,312 INFO 44596 [egg:core] dump config after ready, 7ms
-2019-04-09 15:28:50,305 INFO 44596 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 15:28:50,305 INFO 44596 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|*****|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 15:39:12,924 INFO 44868 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 15:39:12,955 INFO 44868 [egg-multipart] stream mode enable
 2019-04-09 15:39:13,087 INFO 44868 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -813,7 +813,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 15:39:13,126 WARN 44868 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 15:39:13,140 INFO 44868 [egg-watcher:application] watcher start success
 2019-04-09 15:39:13,149 INFO 44868 [egg:core] dump config after ready, 7ms
-2019-04-09 15:39:13,245 INFO 44868 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 15:39:13,245 INFO 44868 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|******|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 15:39:22,670 INFO 44870 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 15:39:22,708 INFO 44870 [egg-multipart] stream mode enable
 2019-04-09 15:39:22,775 INFO 44870 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1102,7 +1102,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 16:54:27,038 WARN 45758 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 16:54:27,055 INFO 45758 [egg-watcher:application] watcher start success
 2019-04-09 16:54:27,065 INFO 45758 [egg:core] dump config after ready, 7ms
-2019-04-09 16:54:27,240 INFO 45758 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 16:54:27,240 INFO 45758 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|******|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 16:54:41,042 INFO 45760 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 16:54:41,082 INFO 45760 [egg-multipart] stream mode enable
 2019-04-09 16:54:41,184 INFO 45760 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1119,7 +1119,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 16:54:41,215 WARN 45760 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 16:54:41,223 INFO 45760 [egg-watcher:application] watcher start success
 2019-04-09 16:54:41,232 INFO 45760 [egg:core] dump config after ready, 7ms
-2019-04-09 16:54:41,690 INFO 45760 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 16:54:41,690 INFO 45760 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|*******|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 16:54:42,110 INFO 45761 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 16:54:42,140 INFO 45761 [egg-multipart] stream mode enable
 2019-04-09 16:54:42,204 INFO 45761 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1136,7 +1136,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 16:54:42,229 WARN 45761 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 16:54:42,238 INFO 45761 [egg-watcher:application] watcher start success
 2019-04-09 16:54:42,246 INFO 45761 [egg:core] dump config after ready, 6ms
-2019-04-09 16:54:42,321 INFO 45761 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 16:54:42,321 INFO 45761 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 16:54:43,106 INFO 45762 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 16:54:43,136 INFO 45762 [egg-multipart] stream mode enable
 2019-04-09 16:54:43,202 INFO 45762 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1153,7 +1153,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 16:54:43,234 WARN 45762 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 16:54:43,249 INFO 45762 [egg-watcher:application] watcher start success
 2019-04-09 16:54:43,259 INFO 45762 [egg:core] dump config after ready, 8ms
-2019-04-09 16:54:43,439 INFO 45762 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 16:54:43,439 INFO 45762 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 16:55:01,567 INFO 45783 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 16:55:01,596 INFO 45783 [egg-multipart] stream mode enable
 2019-04-09 16:55:01,711 INFO 45783 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1170,7 +1170,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 16:55:01,742 WARN 45783 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 16:55:01,753 INFO 45783 [egg-watcher:application] watcher start success
 2019-04-09 16:55:01,766 INFO 45783 [egg:core] dump config after ready, 8ms
-2019-04-09 16:55:01,794 INFO 45783 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 16:55:01,794 INFO 45783 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 16:55:09,717 INFO 45785 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 16:55:09,751 INFO 45785 [egg-multipart] stream mode enable
 2019-04-09 16:55:09,819 INFO 45785 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1187,7 +1187,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 16:55:09,848 WARN 45785 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 16:55:09,856 INFO 45785 [egg-watcher:application] watcher start success
 2019-04-09 16:55:09,865 INFO 45785 [egg:core] dump config after ready, 7ms
-2019-04-09 16:55:09,911 INFO 45785 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 16:55:09,911 INFO 45785 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 16:55:10,997 INFO 45790 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 16:55:11,028 INFO 45790 [egg-multipart] stream mode enable
 2019-04-09 16:55:11,094 INFO 45790 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1204,7 +1204,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 16:55:11,124 WARN 45790 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 16:55:11,131 INFO 45790 [egg-watcher:application] watcher start success
 2019-04-09 16:55:11,140 INFO 45790 [egg:core] dump config after ready, 6ms
-2019-04-09 16:55:11,294 INFO 45790 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 16:55:11,294 INFO 45790 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 16:55:26,051 INFO 45808 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 16:55:26,079 INFO 45808 [egg-multipart] stream mode enable
 2019-04-09 16:55:26,147 INFO 45808 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1221,7 +1221,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 16:55:26,172 WARN 45808 [egg-ons] CANNOT find the subscription logic for topic=GID_ONLINE_MQTT
 2019-04-09 16:55:26,188 INFO 45808 [egg-watcher:application] watcher start success
 2019-04-09 16:55:26,197 INFO 45808 [egg:core] dump config after ready, 7ms
-2019-04-09 16:55:26,273 INFO 45808 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 16:55:26,273 INFO 45808 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 16:56:14,667 INFO 45829 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 16:56:14,695 INFO 45829 [egg-multipart] stream mode enable
 2019-04-09 16:56:14,762 INFO 45829 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1238,7 +1238,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 16:56:14,787 WARN 45829 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 16:56:14,800 INFO 45829 [egg-watcher:application] watcher start success
 2019-04-09 16:56:14,814 INFO 45829 [egg:core] dump config after ready, 11ms
-2019-04-09 16:56:14,846 INFO 45829 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 16:56:14,846 INFO 45829 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:00:20,468 INFO 45878 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:00:20,497 INFO 45878 [egg-multipart] stream mode enable
 2019-04-09 17:00:20,621 INFO 45878 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1255,7 +1255,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:00:20,652 WARN 45878 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 17:00:20,666 INFO 45878 [egg-watcher:application] watcher start success
 2019-04-09 17:00:20,674 INFO 45878 [egg:core] dump config after ready, 6ms
-2019-04-09 17:00:21,586 INFO 45878 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:00:21,586 INFO 45878 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:06:19,375 INFO 45941 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:06:19,405 INFO 45941 [egg-multipart] stream mode enable
 2019-04-09 17:06:19,528 INFO 45941 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1272,7 +1272,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:06:19,559 WARN 45941 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 17:06:19,577 INFO 45941 [egg-watcher:application] watcher start success
 2019-04-09 17:06:19,586 INFO 45941 [egg:core] dump config after ready, 7ms
-2019-04-09 17:06:19,691 INFO 45941 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:06:19,691 INFO 45941 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:07:30,673 INFO 45960 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:07:30,713 INFO 45960 [egg-multipart] stream mode enable
 2019-04-09 17:07:30,832 INFO 45960 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1289,7 +1289,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:07:30,863 WARN 45960 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 17:07:30,871 INFO 45960 [egg-watcher:application] watcher start success
 2019-04-09 17:07:30,880 INFO 45960 [egg:core] dump config after ready, 7ms
-2019-04-09 17:07:31,018 INFO 45960 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:07:31,018 INFO 45960 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:08:40,541 INFO 45970 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:08:40,574 INFO 45970 [egg-multipart] stream mode enable
 2019-04-09 17:08:40,647 INFO 45970 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1306,7 +1306,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:08:40,675 WARN 45970 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 17:08:40,682 INFO 45970 [egg-watcher:application] watcher start success
 2019-04-09 17:08:40,691 INFO 45970 [egg:core] dump config after ready, 7ms
-2019-04-09 17:08:40,764 INFO 45970 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:08:40,764 INFO 45970 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:08:41,593 INFO 45972 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:08:41,627 INFO 45972 [egg-multipart] stream mode enable
 2019-04-09 17:08:41,691 INFO 45972 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1323,7 +1323,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:08:41,717 WARN 45972 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 17:08:41,726 INFO 45972 [egg-watcher:application] watcher start success
 2019-04-09 17:08:41,734 INFO 45972 [egg:core] dump config after ready, 6ms
-2019-04-09 17:08:41,820 INFO 45972 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:08:41,820 INFO 45972 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:08:53,382 INFO 45988 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:08:53,411 INFO 45988 [egg-multipart] stream mode enable
 2019-04-09 17:08:53,531 INFO 45988 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1340,7 +1340,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:08:53,561 WARN 45988 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 17:08:53,572 INFO 45988 [egg-watcher:application] watcher start success
 2019-04-09 17:08:53,586 INFO 45988 [egg:core] dump config after ready, 12ms
-2019-04-09 17:08:53,691 INFO 45988 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:08:53,691 INFO 45988 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:09:27,318 INFO 45993 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:09:27,356 INFO 45993 [egg-multipart] stream mode enable
 2019-04-09 17:09:27,470 INFO 45993 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1357,7 +1357,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:09:27,500 WARN 45993 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 17:09:27,508 INFO 45993 [egg-watcher:application] watcher start success
 2019-04-09 17:09:27,517 INFO 45993 [egg:core] dump config after ready, 5ms
-2019-04-09 17:09:27,612 INFO 45993 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:09:27,612 INFO 45993 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:10:05,225 INFO 45998 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:10:05,260 INFO 45998 [egg-multipart] stream mode enable
 2019-04-09 17:10:05,360 INFO 45998 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1374,7 +1374,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:10:05,390 WARN 45998 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 17:10:05,400 INFO 45998 [egg-watcher:application] watcher start success
 2019-04-09 17:10:05,411 INFO 45998 [egg:core] dump config after ready, 8ms
-2019-04-09 17:10:05,498 INFO 45998 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:10:05,498 INFO 45998 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:10:20,193 INFO 46013 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:10:20,222 INFO 46013 [egg-multipart] stream mode enable
 2019-04-09 17:10:20,291 INFO 46013 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1391,7 +1391,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:10:20,316 WARN 46013 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_BagzDII4%GID_ONLINE_MQTT
 2019-04-09 17:10:20,328 INFO 46013 [egg-watcher:application] watcher start success
 2019-04-09 17:10:20,339 INFO 46013 [egg:core] dump config after ready, 9ms
-2019-04-09 17:10:20,383 INFO 46013 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:10:20,383 INFO 46013 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:25:45,907 INFO 46275 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:25:45,936 INFO 46275 [egg-multipart] stream mode enable
 2019-04-09 17:25:46,058 INFO 46275 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1407,7 +1407,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:25:46,087 WARN 46275 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:25:46,100 INFO 46275 [egg-watcher:application] watcher start success
 2019-04-09 17:25:46,109 INFO 46275 [egg:core] dump config after ready, 7ms
-2019-04-09 17:25:46,217 INFO 46275 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:25:46,217 INFO 46275 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:26:35,159 INFO 46295 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:26:35,188 INFO 46295 [egg-multipart] stream mode enable
 2019-04-09 17:26:35,298 INFO 46295 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1423,7 +1423,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:26:35,326 WARN 46295 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:26:35,342 INFO 46295 [egg-watcher:application] watcher start success
 2019-04-09 17:26:35,349 INFO 46295 [egg:core] dump config after ready, 5ms
-2019-04-09 17:26:35,460 INFO 46295 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:26:35,460 INFO 46295 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:28:23,187 INFO 46336 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:28:23,219 INFO 46336 [egg-multipart] stream mode enable
 2019-04-09 17:28:23,338 INFO 46336 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1439,7 +1439,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:28:23,363 WARN 46336 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:28:23,379 INFO 46336 [egg-watcher:application] watcher start success
 2019-04-09 17:28:23,389 INFO 46336 [egg:core] dump config after ready, 8ms
-2019-04-09 17:28:23,422 INFO 46336 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:28:23,422 INFO 46336 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:30:05,788 INFO 46384 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:30:05,825 INFO 46384 [egg-multipart] stream mode enable
 2019-04-09 17:30:05,936 INFO 46384 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1455,7 +1455,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:30:05,961 WARN 46384 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:30:05,977 INFO 46384 [egg-watcher:application] watcher start success
 2019-04-09 17:30:05,984 INFO 46384 [egg:core] dump config after ready, 6ms
-2019-04-09 17:30:06,110 INFO 46384 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:30:06,110 INFO 46384 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:32:33,812 INFO 46439 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:32:33,841 INFO 46439 [egg-multipart] stream mode enable
 2019-04-09 17:32:33,936 INFO 46439 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1471,7 +1471,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:32:33,960 WARN 46439 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:32:33,978 INFO 46439 [egg-watcher:application] watcher start success
 2019-04-09 17:32:33,986 INFO 46439 [egg:core] dump config after ready, 6ms
-2019-04-09 17:32:35,335 INFO 46439 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:32:35,335 INFO 46439 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:35:19,503 INFO 46493 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:35:19,532 INFO 46493 [egg-multipart] stream mode enable
 2019-04-09 17:35:19,642 INFO 46493 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1487,7 +1487,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:35:19,665 WARN 46493 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:35:19,681 INFO 46493 [egg-watcher:application] watcher start success
 2019-04-09 17:35:19,688 INFO 46493 [egg:core] dump config after ready, 5ms
-2019-04-09 17:35:20,075 INFO 46493 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:35:20,075 INFO 46493 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:37:07,852 INFO 46508 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:37:07,898 INFO 46508 [egg-multipart] stream mode enable
 2019-04-09 17:37:08,008 INFO 46508 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1503,7 +1503,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:37:08,033 WARN 46508 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:37:08,047 INFO 46508 [egg-watcher:application] watcher start success
 2019-04-09 17:37:08,055 INFO 46508 [egg:core] dump config after ready, 6ms
-2019-04-09 17:37:12,618 INFO 46508 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:37:12,618 INFO 46508 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:37:23,531 INFO 46524 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:37:23,563 INFO 46524 [egg-multipart] stream mode enable
 2019-04-09 17:37:23,677 INFO 46524 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1519,7 +1519,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:37:23,700 WARN 46524 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:37:23,716 INFO 46524 [egg-watcher:application] watcher start success
 2019-04-09 17:37:23,722 INFO 46524 [egg:core] dump config after ready, 4ms
-2019-04-09 17:37:23,888 INFO 46524 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:37:23,888 INFO 46524 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature||********||post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:38:17,439 INFO 46531 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:38:17,480 INFO 46531 [egg-multipart] stream mode enable
 2019-04-09 17:38:17,576 INFO 46531 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1535,7 +1535,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:38:17,601 WARN 46531 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:38:17,612 INFO 46531 [egg-watcher:application] watcher start success
 2019-04-09 17:38:17,618 INFO 46531 [egg:core] dump config after ready, 4ms
-2019-04-09 17:38:17,732 INFO 46531 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:38:17,732 INFO 46531 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:38:58,374 INFO 46536 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:38:58,416 INFO 46536 [egg-multipart] stream mode enable
 2019-04-09 17:38:58,527 INFO 46536 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1551,7 +1551,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:38:58,551 WARN 46536 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:38:58,563 INFO 46536 [egg-watcher:application] watcher start success
 2019-04-09 17:38:58,570 INFO 46536 [egg:core] dump config after ready, 5ms
-2019-04-09 17:38:58,711 INFO 46536 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:38:58,711 INFO 46536 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:38:59,451 INFO 46539 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:38:59,484 INFO 46539 [egg-multipart] stream mode enable
 2019-04-09 17:38:59,550 INFO 46539 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1567,7 +1567,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:38:59,571 WARN 46539 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:38:59,583 INFO 46539 [egg-watcher:application] watcher start success
 2019-04-09 17:38:59,589 INFO 46539 [egg:core] dump config after ready, 4ms
-2019-04-09 17:38:59,652 INFO 46539 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:38:59,652 INFO 46539 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:42:16,912 INFO 46588 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:42:16,953 INFO 46588 [egg-multipart] stream mode enable
 2019-04-09 17:42:17,076 INFO 46588 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1582,7 +1582,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:42:17,093 INFO 46588 [egg:core] dump config after load, 5ms
 2019-04-09 17:42:17,104 INFO 46588 [egg-watcher:application] watcher start success
 2019-04-09 17:42:17,110 INFO 46588 [egg:core] dump config after ready, 5ms
-2019-04-09 17:42:17,235 INFO 46588 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:42:17,235 INFO 46588 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:42:36,659 INFO 46604 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:42:36,689 INFO 46604 [egg-multipart] stream mode enable
 2019-04-09 17:42:36,802 INFO 46604 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1597,7 +1597,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:42:36,818 INFO 46604 [egg:core] dump config after load, 4ms
 2019-04-09 17:42:36,831 INFO 46604 [egg-watcher:application] watcher start success
 2019-04-09 17:42:36,838 INFO 46604 [egg:core] dump config after ready, 4ms
-2019-04-09 17:42:36,959 INFO 46604 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:42:36,959 INFO 46604 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:43:33,296 INFO 46615 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:43:33,342 INFO 46615 [egg-multipart] stream mode enable
 2019-04-09 17:43:33,459 INFO 46615 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1612,7 +1612,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:43:33,475 INFO 46615 [egg:core] dump config after load, 5ms
 2019-04-09 17:43:33,485 INFO 46615 [egg-watcher:application] watcher start success
 2019-04-09 17:43:33,492 INFO 46615 [egg:core] dump config after ready, 5ms
-2019-04-09 17:43:33,555 INFO 46615 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:43:33,555 INFO 46615 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:43:34,306 INFO 46616 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:43:34,334 INFO 46616 [egg-multipart] stream mode enable
 2019-04-09 17:43:34,399 INFO 46616 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1627,7 +1627,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:43:34,410 INFO 46616 [egg:core] dump config after load, 4ms
 2019-04-09 17:43:34,421 INFO 46616 [egg-watcher:application] watcher start success
 2019-04-09 17:43:34,427 INFO 46616 [egg:core] dump config after ready, 5ms
-2019-04-09 17:43:35,511 INFO 46616 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:43:35,511 INFO 46616 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:43:56,628 INFO 46621 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:43:56,669 INFO 46621 [egg-multipart] stream mode enable
 2019-04-09 17:43:56,783 INFO 46621 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1656,7 +1656,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:43:57,732 INFO 46622 [egg:core] dump config after load, 4ms
 2019-04-09 17:43:57,743 INFO 46622 [egg-watcher:application] watcher start success
 2019-04-09 17:43:57,749 INFO 46622 [egg:core] dump config after ready, 5ms
-2019-04-09 17:43:58,796 INFO 46622 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:43:58,796 INFO 46622 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:44:08,653 INFO 46639 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:44:08,684 INFO 46639 [egg-multipart] stream mode enable
 2019-04-09 17:44:08,752 INFO 46639 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1671,7 +1671,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:44:08,764 INFO 46639 [egg:core] dump config after load, 5ms
 2019-04-09 17:44:08,778 INFO 46639 [egg-watcher:application] watcher start success
 2019-04-09 17:44:08,784 INFO 46639 [egg:core] dump config after ready, 4ms
-2019-04-09 17:44:08,853 INFO 46639 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:44:08,853 INFO 46639 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:45:16,903 INFO 46648 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:45:16,935 INFO 46648 [egg-multipart] stream mode enable
 2019-04-09 17:45:17,001 INFO 46648 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1686,7 +1686,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:45:17,015 INFO 46648 [egg:core] dump config after load, 6ms
 2019-04-09 17:45:17,026 INFO 46648 [egg-watcher:application] watcher start success
 2019-04-09 17:45:17,034 INFO 46648 [egg:core] dump config after ready, 6ms
-2019-04-09 17:45:17,247 INFO 46648 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:45:17,247 INFO 46648 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:45:25,139 INFO 46652 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:45:25,171 INFO 46652 [egg-multipart] stream mode enable
 2019-04-09 17:45:25,240 INFO 46652 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1702,7 +1702,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:45:25,261 WARN 46652 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:45:25,273 INFO 46652 [egg-watcher:application] watcher start success
 2019-04-09 17:45:25,282 INFO 46652 [egg:core] dump config after ready, 5ms
-2019-04-09 17:45:25,380 INFO 46652 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:45:25,380 INFO 46652 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:45:54,184 INFO 46672 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:45:54,217 INFO 46672 [egg-multipart] stream mode enable
 2019-04-09 17:45:54,289 INFO 46672 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1718,7 +1718,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:45:54,310 WARN 46672 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:45:54,326 INFO 46672 [egg-watcher:application] watcher start success
 2019-04-09 17:45:54,332 INFO 46672 [egg:core] dump config after ready, 5ms
-2019-04-09 17:45:55,718 INFO 46672 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:45:55,718 INFO 46672 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:50:26,246 INFO 46809 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:50:26,277 INFO 46809 [egg-multipart] stream mode enable
 2019-04-09 17:50:26,409 INFO 46809 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
@@ -1734,7 +1734,7 @@ hostname: cocodeMacBook-Pro.local
 2019-04-09 17:50:26,433 WARN 46809 [egg-ons] CANNOT find the subscription logic for topic=MQ_INST_29772019_E6jtqoxx%LAB_MQTT_TEST
 2019-04-09 17:50:26,449 INFO 46809 [egg-watcher:application] watcher start success
 2019-04-09 17:50:26,458 INFO 46809 [egg:core] dump config after ready, 5ms
-2019-04-09 17:50:27,522 INFO 46809 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|LTAITwRV1Y07wisB|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
+2019-04-09 17:50:27,522 INFO 46809 [egg-emqtt] connected mqtt://post-cn-v0h128nqh0d.mqtt.aliyuncs.com:1883@Signature|********|post-cn-v0h128nqh0d:EPfzZT+z57FCsMrlkXM0I1WvJCI=:GID_SERVER@@@server/[object Object]
 2019-04-09 17:53:05,716 INFO 46858 [egg:logger] init all loggers with options: {"dir":"/Users/coco/preSearch/egg-example/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
 2019-04-09 17:53:05,747 INFO 46858 [egg-multipart] stream mode enable
 2019-04-09 17:53:05,830 INFO 46858 [egg-static] starting static serve /public/ -> /Users/coco/preSearch/egg-example/app/public
